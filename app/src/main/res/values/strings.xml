@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">IconCenterEditText</string>
+    <string name="search_machine">搜索机器</string>
+
+    <string-array name="name">
+        <item>红红</item>
+        <item>小绿</item>
+        <item>紫紫</item>
+        <item>小方</item>
+        <item>粉粉</item>
+        <item>小微</item>
+        <item>薇薇</item>
+        <item>小娜</item>
+        <item>言言</item>
+        <item>小海</item>
+        <item>小桌</item>
+        <item>娜娜</item>
+    </string-array>
+
+    <string-array name="address">
+        <item>北京市东城区正义路2号</item>
+        <item>北京市东城区正义路3号</item>
+        <item>北京市东城区正义路4号</item>
+        <item>浙江省杭州市西湖区龙山街18号</item>
+        <item>浙江省杭州市西湖区龙山街17号</item>
+        <item>浙江省杭州市西湖区龙山街16号</item>
+        <item>福建省厦门市思明区思明南路515号</item>
+        <item>福建省厦门市思明区思明南路514号</item>
+        <item>福建省厦门市思明区思明南路513号</item>
+        <item>湖南省长沙市的湘江西岸256号</item>
+        <item>湖南省长沙市的湘江西岸255号</item>
+        <item>湖南省长沙市的湘江西岸254号</item>
+    </string-array>
+
+</resources>

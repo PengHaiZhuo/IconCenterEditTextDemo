@@ -1,0 +1,27 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="IconCenterEditTextStyle">
+        <item name="android:layout_height">44dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:drawablePadding">8dp</item>
+        <item name="android:drawableStart">@drawable/ic_search</item>
+        <item name="android:imeOptions">actionSearch</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:paddingLeft">15dp</item>
+        <item name="android:paddingRight">15dp</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColorHint">#B5B5B5</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>
